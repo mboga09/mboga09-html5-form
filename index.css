@@ -1,0 +1,50 @@
+.post-width {
+    width: 500px !important;
+}
+
+img {
+    width: 100% !important;
+}
+
+.height-select {
+    height: 30px;
+}
+
+.red-color{
+    background-color: #f7d7da !important;
+    margin-right: 5px !important;
+    margin-top: 10px !important;
+}
+
+p{
+    padding-top: 13px !important;
+    color: #69292f;
+}
+
+h2{
+    padding-left: 20px !important;
+}
+
+.dark-gray-color{
+    background-color: #6c757e;
+}
+
+.iconos{
+    padding-left: 5px !important;
+}
+
+.ancho-amount{
+    width: 95%;
+    margin-left: 6px;
+}
+
+.notes{
+    font-size: small;
+    color: #717578;
+}
+
+.pad-city{
+    padding-right: 30px !important;
+    width: 95%;
+    width: 70 !important;
+}
