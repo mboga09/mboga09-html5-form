@@ -8,6 +8,7 @@ img {
 
 .height-select {
     height: 30px;
+    width: 96% !important;
 }
 
 .red-color{
@@ -43,8 +44,7 @@ h2{
     color: #717578;
 }
 
-.pad-city{
-    padding-right: 30px !important;
-    width: 95%;
-    width: 70 !important;
+.ancho-city{
+    width: 98% !important; 
 }
+
